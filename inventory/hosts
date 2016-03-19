@@ -1,0 +1,2 @@
+[windows-servers]
+54.229.84.234     ansible_connection=winrm        ansible_user=vagrant   ansible_password=vagrant
